@@ -1,12 +1,14 @@
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 from google.oauth2 import service_account
+import secretsvar
+import os
 
 class GspreadOeration:
 
-    SERVICE_ACCOUNT_FILE = './keys.json'
-    SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
-    SPREADSHEET_ID = "1Lnw6W9Tun7ev5uCGbFDkyTwy71DpsbGdZZgx3CbJe_k"
+    SERVICE_ACCOUNT_FILE = secretsvar.SERVICE_ACCOUNT_FILE
+    SCOPES = secretsvar.SCOPES
+    SPREADSHEET_ID = secretsvar.SPREADSHEET_ID
     
     def __init__(self) -> None:
         try:
