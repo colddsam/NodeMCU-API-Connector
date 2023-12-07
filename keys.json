@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sturdy-comfort-397810",
+  "private_key_id": "61dbbd04e7d556108604efb13a911576e3e4dcf2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwlsP5LxNysFo7\nM3D1phjVfTZaMPbXHWH4Lgf7j9p3aDxoBcT4Zg3wOnbSUXba4Fvx26iKeEsP7tDd\naVPcQVMii8C4g3vZAZ6PTsyYZahmV4duXeLFgMHBiJ5BV2v8pOciJzeDuxWBUKSo\nFoHcDItlA1V7vKMSPd9wbWzV/znhIZ2ifLaAl3KgPR7y2glnES9S/CXtsEjt7SQT\nSa+cuZKYn8duc7fJonaZKOvdj6Y6BOXD7+mMDY0cTGgB+3Z7ERgXQrIJbgAdxpUD\nPnMa6ugQyy0IT+zZgyyeoRvj0PXGfAtbRdAt2p/1zp5+bw/swr3F/ZQpQZcwxfRg\n3zjdiohBAgMBAAECggEAC+4hnw79w76zl+KPr/7o2FqJXqJGeO3GocVdW3LibfUE\nOLxkDGqbqDZQ8wBXNO4ZtB80ladPHexS3tSH+n5M0y2JJ4YVismL2G94zdZ3YDOr\nZgrQgGqknHJCC9TPyj2rUmC/JMaRyz7jIuqDWzYbQEevgaiyxS+aLf6sjtAbjVCy\nyT+E4kY9Jk443TIIZzcNtEPIiRQlXKOWW8KMtn4ZRRsWZm/QanbCOsHrCF6vq/VS\n7KbqbgOY5suhk+bx9nBgfLZkobLsE+1qPodW/yQEGkT23N13fSED9t4qpCTlWrr/\nXPIzA9kV5twJZKfoNYGLqr7CZyh6CoPT/23oWvY3GQKBgQDuuZDfRNd/F/OSvCza\navYXEbBcQRD3XtogSkxiRFJfDgj3HDq4m1uA5SsApflFYS/OtPwrhfblvWrSiUui\nsYWmQWui11rr8PYSziUQqt6E22m3umFfbuLaQKNU4g66w5Rh8pJDitu7TzFdMUNm\n4HXK+U/nrYZ1e+YmRS2iux9USQKBgQC9Xh3loLV0UGBvJIjaaRM6lL5nSCqHLTRV\nQN/17ZYoHhfX4wZR5Www7igCMqrZ2nkmhr2A5h7PpctHxoYphlqkg/uYbFh1t4PW\nk1bFrXVdfVjHGzD1YjafomBM0zKuUtrvq1kwI2mkIqzhZdeBcnsI032nZmj3g4Tc\n1HHYsQKkOQKBgQCVV8N42ZFSsgIvzsbkkTuIrQk+fXoGtvEQeEqWwxUg4B/dr2xQ\n5uf0l+kyC6MIs0b8Mp76/2C40qnMMhX+Hr50hsK2abE4n1Lh6tKnPa3dQYI+bTvT\nPwRt8zf6tzztu8LND7pOxMS3xlAkc9gtuMgYBaXmUtkmEC+ny2lEP3nW+QKBgALA\nMz76rqgZ4sy6gyJpFFZtgraNXdDI31G9t4MjCGNczIveSGE4K/IqA3rEsaaofcoJ\newc8UIZDqkhIofpIcViici0spbxQBiI/0ardci8BeyCpTHTEEHcRLMTw7HOL0JJa\nstj4KrivqEM973t55j+iktizrCKsTmnGzECRkbBBAoGAd94g9bYjglAYtqP8oAhw\nVizWe+j1V/qW/qzKYnuLWFdSKeheqU/q2WSfKwh66V4jNUKPxfHgWdCW4lZbGvvq\nMfrrFAc8+NG6dK+TPj6e0ZSCg9DwZ3P6OAj0nIfw8OXEwr6oFW6Wb1CrRU0nrPFv\n0GbdKHxdwfW1fKH61laSqE8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gspreednodemcu@sturdy-comfort-397810.iam.gserviceaccount.com",
+  "client_id": "118042095198479026907",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gspreednodemcu%40sturdy-comfort-397810.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
